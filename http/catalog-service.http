@@ -1,0 +1,2 @@
+### catalog items 조회
+GET http://localhost:8000/catalog-service/catalogs
