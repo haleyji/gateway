@@ -1,8 +1,0 @@
-### first-filter적용 확인
-GET http://localhost:8000/first-service/message
-
-### second-filter적용 확인
-GET http://localhost:8000/second-service/message
-
-### custom filter bean 적용 확인
-GET http://localhost:8000/first-service/check
